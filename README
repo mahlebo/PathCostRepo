@@ -2,8 +2,9 @@ PathCostCalculation Project Instructions
 ========================================
 
 1. Use JDK version 7
+2. Download a folder called src from the repo containing this README file.
 2. Compiling and running code
-	i. Compiling via Linux commandline, change directory (cd) into the project folder and run javac src/za/co/multichoice/assessment/pathcost/*.java
+	i. Compiling via Linux commandline, change directory (cd) into the folder where you downloaded the src file and run javac src/za/co/multichoice/assessment/pathcost/*.java
 	ii. To run the code, while in the project folder run java -cp src za.co.multichoice.assessment.pathcost.PathCostCalculation
 3. To compile and run on Windows, change forward slashes to backslashes in Step 2, compile and run.
 
